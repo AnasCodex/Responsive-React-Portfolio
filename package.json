@@ -1,6 +1,5 @@
 {
-  "homepage": "http://anas110440.github.io/Responsive-React-Portfolio",
-  "name": "story",
+  "name": "Responsive-React-Portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
